@@ -12,7 +12,7 @@ Set up a python environment and download the Unity environment by following step
 
 ## Installation
 
-To run the DQN solution code, download the following files and place them in the same directory:
+To run the DDPG solution code, download the following files and place them in the same directory:
     
     Continuous_Control.ipynb
     dqn_agent.py
